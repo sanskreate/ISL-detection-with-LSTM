@@ -18,7 +18,7 @@ This project aims to bridge the communication gap for the deaf community by prov
 
 
 ## Project WorkFlow :
-![image](https://github.com/Sooryak12/ISL_Recognition/assets/55055042/d9312bf1-d615-4fc0-a2d3-edf3b4d08709)
+
 
 
 ## Installation and Usage
@@ -162,10 +162,10 @@ Model Size Comparision :
 
 1. Web app :
 
-![ApplicationFrameHost_BbTrmb1MGc](https://github.com/Sooryak12/ISL_Recognition/assets/55055042/7facb461-18b7-4eb2-adca-2161a9bce712)
+
 
 2. Run with Laptop camera as feed.
-![ApplicationFrameHost_H5ia1qMcXq](https://github.com/Sooryak12/ISL_Recognition/assets/55055042/476e0c90-728f-44e1-9b9a-bd127695dbd1)
+
 
 ## Background
 
@@ -178,8 +178,7 @@ Model Size Comparision :
 
 ## Acknowledgements
 
-- [INCLUDE: A Large Scale Dataset for Indian Sign Language Recognition](https://dl.acm.org/doi/10.1145/3394171.3413528)
-- [Nicholas Ronette Tutorials](https://www.youtube.com/@NicholasRenotte)
+- https://github.com/Sooryak12/Indian-Sign-Language-Recognition
 
 
 
