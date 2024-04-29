@@ -1,0 +1,9 @@
+fastapi
+keras
+mediapipe
+numpy
+opencv2-python
+pandas
+sk_video
+tensorflow
+uvicorn
