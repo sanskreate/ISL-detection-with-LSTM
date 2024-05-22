@@ -17,8 +17,6 @@ This project aims to bridge the communication gap for the deaf community by prov
 ### Output Words: [Hello, How are you, Thank you]
 
 
-## Project WorkFlow :
-
 
 
 ## Installation and Usage
